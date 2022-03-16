@@ -5,13 +5,13 @@ This repository contains an analysis of the monthly average rainfall from 1855-2
 To run this analysis firstly use the command:
 
 ```
-Rscript source.code/combine-data.R
+Rscript source-code/combine-data.R
 ```
 
 To generate a data frame that contains the data for these two cities, and then use the command: 
 
 ```
-Rscript source.code/make-plot.R
+Rscript source-code/make-plot.R
 ```
 
 To create a visualisation of the data. 
